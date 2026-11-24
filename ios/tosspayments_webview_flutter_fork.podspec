@@ -2,8 +2,8 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'tosspayments_webview_flutter'
-  s.version          = '0.0.1'
+  s.name             = 'tosspayments_webview_flutter_fork'
+  s.version          = '0.1.0'
   s.summary          = 'A WebView Plugin for Flutter.'
   s.description      = <<-DESC
 A Flutter plugin that provides a WebView widget.
